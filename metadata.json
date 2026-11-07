@@ -1,0 +1,6 @@
+{
+  "name": "International Tour and Travel - Invoice to Word Converter",
+  "description": "Convert invoice templates to Microsoft Word (.docx), edit details interactively, and export print-ready invoices for International Tour and Travel, Kolkata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
